@@ -56,7 +56,7 @@ public class HondaCar extends AbstractCar implements  ICarSmartFeatures {
 	}
 
 
-	// the next three methods are the ICarSmartFeatures 
+	// the next three methods are of the ICarSmartFeatures Interface
 	
 		@Override
 		public void selfParking() {
