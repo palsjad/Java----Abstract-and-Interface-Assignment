@@ -14,12 +14,7 @@ public abstract class AbstractCar implements ICarAdvancedFeatures {
 	System.out.println("\n\n The following are the details for : " + car);
 }
 	
-//public abstract void fuelEconomy() ;
-//	
-//public abstract void blindSpotMonitoring();
-//
-//public abstract void emergencyAutoBrakes();
-
+ 
 
 	
 public abstract void maintenanceSchedule() ;
